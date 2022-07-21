@@ -1,0 +1,48 @@
+
+footer
+{
+	background-color: white;
+
+}
+a img
+{
+border: 1px solid purple;
+border-radius: 6px;
+}
+figcaption
+{
+	border: 1px solid green;
+	background-color: lime;
+	text-decoration: underline;
+
+}
+h1
+{
+	text-shadow: 1px 1px 1px white;
+	text-align: center;
+}
+h4
+{
+	color: white; 
+	text-align: center;
+
+}
+form
+{
+	background-color: green;
+	color: white;
+	font-size: 1.3em;
+}
+div input
+{
+	border: 1px solid red;
+	width: 13%;
+background-color: green;
+}
+tr
+{
+	margin-top:10px;
+}
+#tr1{
+	background-color: silver;
+}
